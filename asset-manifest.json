@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.367b9a2e.css",
-    "main.js": "/portfolio/static/js/main.2131ce15.js",
+    "main.css": "/portfolio/static/css/main.31703807.css",
+    "main.js": "/portfolio/static/js/main.fd59b459.js",
     "static/media/star-wars-gungan-translator.png": "/portfolio/static/media/star-wars-gungan-translator.ab4bc3817584278f4af6.png",
     "static/media/stonks-go-brrr.png": "/portfolio/static/media/stonks-go-brrr.f434b8d8c97989935aab.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -12,11 +12,11 @@
     "static/media/logo.png": "/portfolio/static/media/logo.4b88f2e913e82720019c.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.367b9a2e.css.map": "/portfolio/static/css/main.367b9a2e.css.map",
-    "main.2131ce15.js.map": "/portfolio/static/js/main.2131ce15.js.map"
+    "main.31703807.css.map": "/portfolio/static/css/main.31703807.css.map",
+    "main.fd59b459.js.map": "/portfolio/static/js/main.fd59b459.js.map"
   },
   "entrypoints": [
-    "static/css/main.367b9a2e.css",
-    "static/js/main.2131ce15.js"
+    "static/css/main.31703807.css",
+    "static/js/main.fd59b459.js"
   ]
 }
