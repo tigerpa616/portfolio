@@ -12,7 +12,7 @@ const Work = () => {
                 <p className="py-6">// Check out some of my recent work</p>
             </div>
 
-            <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-12'>
+            <div className='grid sm:grid-cols-2 md:grid-cols-2 '>
                 <div style={{backgroundImage: `url(${Stonks_Go_Brrr})`}}
                  className='shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
@@ -39,7 +39,7 @@ const Work = () => {
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://github.com/tigerpa616/starWarsTranslator">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white font-bold text-lg'>View Code</button>
+                                <button className='text-center rounded-lg px-4 py-3 m bg-black text-white font-bold text-lg'>View Code</button>
                             </a>
                         </div>
                     </div>
